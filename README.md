@@ -56,7 +56,8 @@ t.write("Your Custom Message", align="center", font=("Verdana", 15, "bold"))
 
 ## 📸 **Screenshots**  
 ### 💕 **Full Gradient Hearts**  
-![Demo Preview](https://github.com/<your-username>/HeartsSYS/blob/main/demo.gif?raw=true)
+![Hearts Preview](https://github.com/ChiranjeewaLankeshwara/HeartsSYS/blob/main/HeartsSYS.gif?raw=true)
+
 
 ---
 
@@ -110,13 +111,15 @@ Special thanks to Python’s **Turtle Graphics** library for making graphics fun
 ---
 
 ## 💌 **Connect with Me**  
-🌐 **Portfolio**: [Your Portfolio Link]  
-🐦 **Twitter**: [@YourUsername](https://twitter.com/YourUsername)  
-👔 **LinkedIn**: [Your Name](https://linkedin.com/in/YourName)  
+🌐 **Portfolio**: [Your Portfolio Link] <br>
+👔 **LinkedIn**: [chiranjeewa-lankeshwara](https://linkedin.com/in/chiranjeewa-lankeshwara-453866305) <br>
+👍 **Facebook**: [chiranjeewalankeshwara](https://facebook.com/chiranjeewalankeshwara) <br>
+📸 **Instagram**: [iam.djraax](https://instagram.com/iam.djraax) <br>
+🐦 **Twitter**: [@DJ_Raax](https://x.com/DJ_RaaX)
 
 ---
 
 ### **Spread the love with HeartsSYS! 💝** 
-Enjoy creating beautiful hearts and spreading love! 💝
+Enjoy creating beautiful hearts and spreading love! 💝<br><br>
 ~ Made with ❤️ by Chiranjeewa Peellawatta
 
