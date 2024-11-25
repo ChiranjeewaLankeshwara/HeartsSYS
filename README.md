@@ -18,7 +18,6 @@ Perfect for **gifting virtual love**, or just for **fun with artistic coding!** 
 
 ---
 
-
 ## 🚀 **How to Use**  
 
 ### **1. Prerequisites**  
@@ -57,7 +56,6 @@ t.write("Your Custom Message", align="center", font=("Verdana", 15, "bold"))
 ## 📸 **Screenshots**  
 ### 💕 **Full Gradient Hearts**  
 ![Hearts Preview](https://github.com/ChiranjeewaLankeshwara/HeartsSYS/blob/main/HeartsSYS.gif?raw=true)
-
 
 ---
 
