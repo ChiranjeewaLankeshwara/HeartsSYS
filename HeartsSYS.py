@@ -24,3 +24,10 @@ def draw_heart(w, h, color, start_pos):
         a += 0.01
     t.goto(points[0])  # Close the shape
     t.end_fill()
+
+def draw_text(text, position):
+    t.up()
+    t.goto(position)
+    t.color("black")
+    t.write(text, align="center", font=("Verdana", 15, "bold"))
+    t.down()
