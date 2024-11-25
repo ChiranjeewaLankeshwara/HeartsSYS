@@ -45,3 +45,14 @@ screen.title("See You Soon..")
 t = turtle.Turtle()
 t.hideturtle()
 
+# Draw three hearts with different initial sizes and colors
+for i, color in enumerate(colors):
+    size = 16 - i * 2
+    draw_heart(size, size, color, (0, 0))
+
+# Draw farewell message
+draw_text("See You Soon.. <3", (0, -30))
+
+# Keep the window open
+turtle.done()
+
