@@ -34,3 +34,9 @@ def draw_text(text, position):
 
 # Define vibrant and cheerful colors
 colors = ['#FF1493', '#FF6347', '#00BFFF', '#FFFF00', '#FFA500']
+
+# Set up the screen
+screen = turtle.Screen()
+screen.setup(width=600, height=600)
+screen.bgcolor("white")
+screen.title("See You Soon..")
