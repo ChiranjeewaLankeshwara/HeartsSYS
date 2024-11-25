@@ -31,3 +31,6 @@ def draw_text(text, position):
     t.color("black")
     t.write(text, align="center", font=("Verdana", 15, "bold"))
     t.down()
+
+# Define vibrant and cheerful colors
+colors = ['#FF1493', '#FF6347', '#00BFFF', '#FFFF00', '#FFA500']
